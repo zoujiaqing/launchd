@@ -1,0 +1,14 @@
+Makefile
+config.h
+config.mk
+config.log
+vars.sh
+.cproject
+.project
+/launchd
+.settings/
+/test/jmtest.log
+*.tar.gz
+*.so
+*.o
+*.log
